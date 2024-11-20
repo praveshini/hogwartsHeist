@@ -1,0 +1,11 @@
+Welcome to Hogwarts Heist, where your adventure begins with a mystery, a puzzle, and a test of your magical prowess!
+
+As an ambitious witch or wizard, you’ve snuck into Hogwarts in the dead of night, with one goal: to uncover the hidden treasures that lie deep within its enchanted walls. Along the way, you’ll encounter magical traps, secret passageways, and a host of challenges designed to thwart even the cleverest of intruders.
+
+But beware—Hogwarts is not easily outwitted! You'll need to call upon your knowledge of charms, potions, and cryptic spells to find the hidden flags.  
+
+Flag Format: PotterHead[flag]
+Passwords for files(if any): all lowercase letters
+
+Are you clever enough to steal from Hogwarts itself? Or will the enchantments of the castle leave you trapped forever? The heist is on, and only the most skilled will walk away with the treasure! Let the magic guide you and may your adventure through the Hogwarts Heist be nothing short of legendary!
+
